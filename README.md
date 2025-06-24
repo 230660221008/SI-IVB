@@ -8,7 +8,7 @@ Repository Pemrograman Berbasis Web Front End
 <a href="#"><img src="https://img.shields.io/github/commit-activity/w/PBWFEND/SI-IVB?style=flat-square"></a>
 </p>
 
-#### Kamis, 🕐 13:00 s.d 15:30
+#### Jumat, 🕐 13:00 s.d 15:30
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
 
@@ -44,7 +44,7 @@ Contoh struktur direktori sebagai berikut:
 
 ## Modul Praktikum 👁‍🗨
 
-- [Modul Praktikum GIT :octocat:](https://github.com/PBWFEND/Modul-Praktikum)
+- [Modul Praktikum :octocat:](https://github.com/PBWFEND/Modul-Praktikum)
 
 ## Contributors ✨
 
